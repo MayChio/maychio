@@ -1,6 +1,8 @@
 ## Hi there 👋
-<!-- Inicio del contenido del README -->
-<div style="background-image: url('https://github.com/MayChio/mayra-foto/raw/main/mayra%20analisisde%20datos.jpg'); background-size: cover; padding: 20px; color: white; text-align: center;">
+<div style="background-image: url('ENLACE_DIRECTO_DE_LA_IMAGEN'); background-size: cover; padding: 20px; color: white;">
+    <!-- Contenido de tu README.md aquí -->
+</div>
+
 
 # 👩‍💼 Mayra Rocio Valencia Brito
 ### 👩‍💻 Científico de datos | Ingeniería Industrial | Maestría en Ciencias de la Ingeniería
