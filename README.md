@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="background-image: url('https://github.com/MayChio/background-image/blob/main/mayra%20analisisde%20datos.jpg?raw=true'); background-size: cover; padding: 20px; color: white;">
+<div style="background-image: url('https://github.com/MayChio/background-image/blob/main/mayra%20analisisde%20datos.jpg?raw=true'); height: 500px;">
     <!-- Contenido de tu README.md aquí -->
 </div>
 
