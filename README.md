@@ -2,7 +2,7 @@
 <!-- Inicio del contenido del README -->
 <div style="background-image: url('https://github.com/MayChio/mayra-foto/raw/main/fondo.jpg'); background-size: cover; padding: 20px; color: white;">
 
-# 👩‍💼 Mayra Rocío Valencia Brito
+# 👩‍💼 Mayra Rocio Valencia Brito
 ### 👩‍💻 Científico de datos | Ingeniería Industrial | Maestría en Ciencias de la Ingeniería
 [LinkedIn](#) | [GitHub](#)
 
