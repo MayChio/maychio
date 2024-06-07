@@ -1,10 +1,15 @@
 ## Hi there 👋
 <!-- Inicio del contenido del README -->
-<div style="background-image: url('https://github.com/MayChio/mayra-foto/raw/main/fondo.jpg'); background-size: cover; padding: 20px; color: white;">
+<div style="background-image: url('https://github.com/MayChio/mayra-foto/raw/main/mayra%20analisisde%20datos.jpg'); background-size: cover; padding: 20px; color: white; text-align: center;">
 
 # 👩‍💼 Mayra Rocio Valencia Brito
 ### 👩‍💻 Científico de datos | Ingeniería Industrial | Maestría en Ciencias de la Ingeniería
-[LinkedIn](#) | [GitHub](#)
+
+<!-- Botones de LinkedIn y GitHub -->
+<p align="center">
+  <a href="LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="GITHUB_URL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ## 🎯 Objetivo
 Data Scientist con formación en Ingeniería Industrial y una Maestría en Ciencias de la Ingeniería, especializada en Calidad y Manufactura. Busco aplicar mis conocimientos en análisis de datos, aprendizaje automático y mejora de procesos en una organización innovadora.
@@ -49,19 +54,3 @@ Centro Nacional de Investigación y Desarrollo Tecnológico | Septiembre 2020 - 
 
 </div>
 <!-- Fin del contenido del README -->
-
-
-<!--
-**MayChio/maychio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
