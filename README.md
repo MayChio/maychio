@@ -56,4 +56,7 @@ Centro Nacional de Investigación y Desarrollo Tecnológico | Septiembre 2020 - 
 - Atención al Detalle
 
 </div>
+
+[GitHub Analytics](https://github.com/MayChio/maychio/graphs)
+
 <!-- Fin del contenido del README -->
