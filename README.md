@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="background-image: url('https://www.dqsconsulting.com/wp-content/uploads/2021/09/como-hacer-un-analisis-de-datos.jpg'); background-size: cover; padding: 20px; color: white;">
+<div style="background-image: url('https://raw.githubusercontent.com/MayChio/maychio/13ca147f4dd41a74b10716b535dc2ce93f8be66c/mayra%20analisisde%20datos%20(1).jpg'); background-size: cover; padding: 20px; color: white;">
     <!-- Contenido de tu README.md aquí -->
 </div>
 
