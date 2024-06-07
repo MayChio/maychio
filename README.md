@@ -1,7 +1,8 @@
 ## Hi there 👋
-<div style="background-image: url('https://github.com/MayChio/background-image/blob/main/mayra%20analisisde%20datos.jpg?raw=true'); height: 500px;">
+<div style="background-image: url('https://www.dqsconsulting.com/wp-content/uploads/2021/09/como-hacer-un-analisis-de-datos.jpg'); background-size: cover; padding: 20px; color: white;">
     <!-- Contenido de tu README.md aquí -->
 </div>
+
 
 # 👩‍💼 Mayra Rocio Valencia Brito
 ### 👩‍💻 Científico de datos | Ingeniería Industrial | Maestría en Ciencias de la Ingeniería
